@@ -1,2 +1,2 @@
 클론한 저장소에서 추가한 파일
-git-test-cloned 저장소에서 변경
+git-test-cloned 에서 파일을 수정
